@@ -1,4 +1,4 @@
-Prologue:
+Social Distancing Log: Isaiah Pettingill: 2020 Cornoavirus Pandemic
 
 Day 1: Mar 14
 	Social Distancing has begun. Our first roll of toilet paper has run out.
@@ -8,7 +8,7 @@ Day 1: Mar 14
 	We also celebrated Phebe's birthday, making the day exciting overall. 
 	I think if we keep up the morale, we will be able to make it. 
 
-Week 1:
+Week 1
 Day 2: Mar 15
 	Home Church.
 	Home sacrament meeting was great. We had the Spirit, wore ties, and were all late. All as usual.
@@ -57,7 +57,7 @@ Day 8: Mar 21
 	IFA employees didn't even practice social distancing. Sort of terrifying when people are too close.
 	I am beginning to wonder what post-Corona society will look like. 
 
-Week 2:
+Week 2
 Day 9: Sunday, Mar 22
 	I really could get used to church at home. It's really quite nice. No handshakes, no nasty Wonder bread, no presidency meetings.
 	It's nice, even  if it would be nicer to go like Reepicheep and sail into Aslan's country.
@@ -87,7 +87,7 @@ Day 15: Mar 28
 	Planted part of the garden today. We should survive right nicely.
 	Got to use the new tiller.
 
-Week 3:
+Week 3
 Day 16: Sunday, Mar 29
 	Today my dad got sick. Not corona, so we were all fine.	
 	Slept in the longest I have in years. 8:30 AM.
@@ -113,7 +113,7 @@ Day 21: Apr 2
 
 Day 22: Apr 3
 	I've had more school dreams. This time the Quinn's stole supplies from some place at school and smuggled them to 
-	an impoverished village Then there was an assembly and a little kid with a sword (the youngest of the Wares,
+	an impoverished village. Then there was an assembly and a little kid with a sword (the youngest of the Wares,
 	who, in this dream, told me that Sarah was her little sister). It was a little weird. 
 	I think it means my subconscious mind still runs while I sleep, and that said subconscious is highly illogical.
 	Go figure.
@@ -132,7 +132,7 @@ Day 23: Apr 4
 	I did a dumb. I left the keys in the truck yesterday.
 	I guess I'll have to learn to be more responsible.
 
-Week 4:
+Week 4
 Day 24: Apr 5
 	Sunday, Conference, day 2
 	I feel like the prophets are calling us to take Sprituality up to the next level	
@@ -159,14 +159,14 @@ Day 26: Apr 7
 	Spring Break, day 2
 	Tried to record some loops. Still really hard.
 	Also spent some time coding a voice recognition app in Python. Sort of like an extra stupid Siri.
-	Ezra launched an exercise band in a tree. Spent 15 minutes of our workout getting it down.
+	Ezra launched an exercise band into a tree. Spent 15 minutes of our workout getting it down.
 
 Day 27: Apr 8
 	Spring Break, day 3
 	Weeded the garden today.
 	Also shopped at Macey's. Everyone was wearing masks.
 	
-	My phone finally bit the dust. 8 years and it threw in the towel. It comes on in spurts, but it's fading rapidly.
+	My phone finally bit the dust. 8 years and it threw in the towel. It comes back on in spurts, but it's fading rapidly.
 	Good thing I don't really need it during quarantine/spring break.
 	
 Day 28: Apr 9
@@ -184,7 +184,7 @@ Day 30: Apr 11
 	Saturday
 	Did chores, etc.	
 
-Week 4:
+Week 5
 Day 31: Apr 12
 	Easter Sunday
 	Really nice day.
@@ -214,3 +214,7 @@ Day 34: Apr 15
 
 	School is officially online until the end of May.
 	I'll bet church won't start up again until the late summer or fall.
+
+Day 35: Apr 16
+	
+	
